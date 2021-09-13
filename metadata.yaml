@@ -1,0 +1,29 @@
+_repo: Overweight-and-Underweight_66226
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2021-09-06'
+identifiers:
+  gutenberg: '66226'
+language: en
+pgterms:marc905: 20200604232950anonymous
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Lisa Corcoran and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Metropolitan Life Insurance Company,1953.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Overweight and Underweight
+url: http://www.gutenberg.org/ebooks/66226
